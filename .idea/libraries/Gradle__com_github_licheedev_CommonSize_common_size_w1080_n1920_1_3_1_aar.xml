@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.licheedev.CommonSize:common_size_w1080_n1920:1.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a9a22dd1c912224c2f197d371577f7/jetified-common_size_w1080_n1920-1.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a9a22dd1c912224c2f197d371577f7/jetified-common_size_w1080_n1920-1.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a9a22dd1c912224c2f197d371577f7/jetified-common_size_w1080_n1920-1.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.licheedev.CommonSize/common_size_w1080_n1920/1.3.1/83f23c197a525d4fa8a5e6dbaad7335cc07b20bf/common_size_w1080_n1920-1.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.licheedev.CommonSize/common_size_w1080_n1920/1.3.1/aa96af15fbecf82e8e9808c5dc699012fb1e9ff6/common_size_w1080_n1920-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

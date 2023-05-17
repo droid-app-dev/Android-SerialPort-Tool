@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.licheedev:logplus:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a83c7558de6b4039673edc42ca6aaaf/jetified-logplus-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a83c7558de6b4039673edc42ca6aaaf/jetified-logplus-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1a83c7558de6b4039673edc42ca6aaaf/jetified-logplus-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.licheedev/logplus/1.0.0/b23c45eb575cf8c1a12a12b345aa787b3a2c185d/logplus-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.licheedev/logplus/1.0.0/dac7cc4475f6fdaa0590283b50e58f97f401b937/logplus-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
