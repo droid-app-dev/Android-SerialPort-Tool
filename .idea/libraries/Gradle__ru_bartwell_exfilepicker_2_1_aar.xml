@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64680be165e4fd3cdd6f7cb5b8e6453b/jetified-exfilepicker-2.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64680be165e4fd3cdd6f7cb5b8e6453b/jetified-exfilepicker-2.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64680be165e4fd3cdd6f7cb5b8e6453b/jetified-exfilepicker-2.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75bb85166287cd8703c513802e95f0b7/jetified-exfilepicker-2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75bb85166287cd8703c513802e95f0b7/jetified-exfilepicker-2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75bb85166287cd8703c513802e95f0b7/jetified-exfilepicker-2.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.bartwell/exfilepicker/2.1/6c76a5d6b2c65896655203c0c5d7c3ead0100009/exfilepicker-2.1-javadoc.jar!/" />
